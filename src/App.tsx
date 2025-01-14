@@ -1,8 +1,10 @@
-import Counter from './components/Counter'
+import NFTMinter from './components/NFTMinter'
 
 function App() {
   return (
-    <Counter />
+    <div>
+      <NFTMinter />
+    </div>
   )
 }
 
